@@ -42,10 +42,10 @@ Precalculus
 
 - [x]  Course: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) 
 - [x]  Course: [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) 
-- [ ]  Course: [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) 
-- [ ]  Course: [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) 
+- [x]  Course: [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) 
+- [x]  Course: [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) 
 - [ ]  Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) 
-- [ ]  Course: [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) 
+- [x]  Course: [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) 
 - [ ]  Course: [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) 
 
 ## Tier 2 - Intro to Programming 
